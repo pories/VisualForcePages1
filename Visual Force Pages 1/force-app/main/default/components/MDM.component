@@ -1,0 +1,9 @@
+<apex:component >
+<form action="/action_page.php">
+  <label for="fname">Golden Record aka MDM:</label>
+  <input type="text" id="fname" name="fname"></input>
+
+  <input type="submit" value="Submit"></input>
+
+</form>
+</apex:component>
